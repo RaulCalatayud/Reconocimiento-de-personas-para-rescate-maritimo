@@ -21,7 +21,7 @@ CREACIÓN DEL DATASET
 Una gran parte de la creación de este dataset proviene del repositorio creado por winter2897 https://github.com/winter2897/Airsim-Search-and-Rescue-SAR-at-sea-with-UAV, el cual realiza una simulación de un naufragio y utiliza un dron controlado con la librería AirSim en un entorno de UnrealEngine para la toma de imágenes.
 
 <p align="center">
-  <img src="/Imagenes/ue1.png" width="500" title="Dron en el entorno simulado">
+  <img src="/Imagenes/ue1.png" width="475" title="Dron en el entorno simulado">
   <img src="/Imagenes/victim_and_mesh_891.png" width="350" title="Muestra del dataset Victims on Ocean">
 </p>
 
