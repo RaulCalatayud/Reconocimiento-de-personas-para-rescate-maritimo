@@ -18,15 +18,16 @@ Finalmente, para comprobar el comportamiento que debía realizar el dron junto a
 
 CREACIÓN DEL DATASET
 
-Una gran parte de la creación de este dataset proviene del repositorio creado por winter2897 https://github.com/winter2897/Airsim-Search-and-Rescue-SAR-at-sea-with-UAV, el cual realiza una simulación de un naufragio y utiliza un dron controlado con la librería AirSim en un entorno de UnrealEngine para la toma de imágenes.
+Una gran parte de la creación de este dataset proviene del repositorio creado por winter2897 https://github.com/winter2897/Airsim-Search-and-Rescue-SAR-at-sea-with-UAV, el cual realiza una simulación de un naufragio y utiliza un dron controlado con la librería AirSim en un entorno de UnrealEngine para la toma de imágenes. El dataset creado en esta simulación es Victims on Ocean, que cuenta con un total de 3954 imágenes.
 
 <p align="center">
   <img src="/Imagenes/ue1.png" width="450" title="Dron en el entorno simulado">
   <img src="/Imagenes/victim_and_mesh_891.png" width="350" title="Muestra del dataset Victims on Ocean">
 </p>
 
+Además del datset anterior, se ha realizado una búsqueda de imágenes y vídeos de stock que se han etiquetado para aumentar el dataset a un total de 5806 imágenes.
 
-
+Todas estas imágenes han sido etiquetadas utilizando LabelImg y siguiendo un proceso de pseudo-labelling
 CREACIÓN DE LA RED YOLOv3
 
 Se ha utilizado el fork del darknet original AlexeyAB https://github.com/AlexeyAB/darknet. Se ha entrenado 
