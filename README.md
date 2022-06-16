@@ -18,9 +18,16 @@ Finalmente, para comprobar el comportamiento que debía realizar el dron junto a
 
 CREACIÓN DEL DATASET
 
-Una gran parte de la creación de este dataset proviene del repositorio creado por 2897winter https://github.com/winter2897/Airsim-Search-and-Rescue-SAR-at-sea-with-UAV, el cual realiza una simulación de un naufragio y utiliza un dron controlado con la librería AirSim en un entorno de UnrealEngine para la toma de imágenes.
+Una gran parte de la creación de este dataset proviene del repositorio creado por winter2897 https://github.com/winter2897/Airsim-Search-and-Rescue-SAR-at-sea-with-UAV, el cual realiza una simulación de un naufragio y utiliza un dron controlado con la librería AirSim en un entorno de UnrealEngine para la toma de imágenes.
 
-<img src="/Imagenes/ue1.png" alt="Dron en el entorno simulado"/>
+<p align="center">
+  <img src="/Imagenes/ue1.png" width="350" title="Dron en el entorno simulado">
+</p>
+
+<p align="center">
+  <img src="/Imagenes/victim_and_mesh_891" width="350" title="Dron en el entorno simulado">
+</p>
+
 
 CREACIÓN DE LA RED YOLOv3
 
