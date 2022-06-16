@@ -28,8 +28,17 @@ Una gran parte de la creación de este dataset proviene del repositorio creado p
 Además del datset anterior, se ha realizado una búsqueda de imágenes y vídeos de stock que se han etiquetado para aumentar el dataset a un total de 5806 imágenes.
 
 Todas estas imágenes han sido etiquetadas utilizando LabelImg y siguiendo un proceso de pseudo-labelling
+
 CREACIÓN DE LA RED YOLOv3
 
-Se ha utilizado el fork del darknet original AlexeyAB https://github.com/AlexeyAB/darknet. Se ha entrenado 
+Se ha utilizado el fork del darknet original AlexeyAB https://github.com/AlexeyAB/darknet. Se ha configurado la red siguiendo los pasos marcados en este repositorio.
+
+ENTRENAMIENTO
+
+Se han realizado múltiples pruebas recogidas en la siguiente tabla:
+
+<p align="center">
+  <img src="/Imagenes/yolo1.png" width="450" title="Dron en el entorno simulado">
+</p>
 
 
