@@ -1,4 +1,4 @@
-# Reconocimiento-de-personas-para-rescate-maritimo
+# Reconocimiento de personas para rescate maritimo
 Trabajo de fin de grado en el cual se realiza la creación de un sistema de visión artificial utilizando una red neuronal con arquitectura YOLOv3 para el reconocimiento de náufragos. Este sistema busca ser implantado en un grupo de drones autónomos que trabajen cooperativamente con los sistemas de búsqueda y rescate marítimo.
 
 RESUMEN
