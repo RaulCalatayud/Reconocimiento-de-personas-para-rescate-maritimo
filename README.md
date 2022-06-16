@@ -25,7 +25,7 @@ Una gran parte de la creación de este dataset proviene del repositorio creado p
 </p>
 
 <p align="center">
-  <img src="/Imagenes/victim_and_mesh_891" width="350" title="Dron en el entorno simulado">
+  <img src="/Imagenes/victim_and_mesh_891" width="350" title="Muestra del dataset Victims on Ocean">
 </p>
 
 
