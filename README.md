@@ -20,6 +20,8 @@ CREACIÓN DEL DATASET
 
 Una gran parte de la creación de este dataset proviene del repositorio creado por 2897winter https://github.com/winter2897/Airsim-Search-and-Rescue-SAR-at-sea-with-UAV, el cual realiza una simulación de un naufragio y utiliza un dron controlado con la librería AirSim en un entorno de UnrealEngine para la toma de imágenes.
 
+<img src="/Imagenes/ue1.png" alt="Dron en el entorno simulado"/>
+
 CREACIÓN DE LA RED YOLOv3
 
 Se ha utilizado el fork del darknet original AlexeyAB https://github.com/AlexeyAB/darknet. Se ha entrenado 
